@@ -1,0 +1,11 @@
+.btn--main {
+    padding: 16px 58px;
+    border-radius: 35px;
+    background: #ffffff;
+    color: #38A3F1;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+    display: inline-block;
+}
